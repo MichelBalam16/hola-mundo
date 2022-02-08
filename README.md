@@ -1,5 +1,5 @@
 # hola-mundo
 Mi primer repositorio de prueba
 
-Autor: Asen2Wat
+Autor: Michel Balam
 Fecha: 07 de Febrero
